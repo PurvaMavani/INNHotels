@@ -1,7 +1,7 @@
-# 🏨 INNHotels Revenue Analysis & Customer Segmentation
+# 🏨 INNHotels Revenue Analysis & Customer Segmentation - Supervised Learning Classification
 
 ## 📌 Project Overview
-This project analyzes **hotel revenue patterns** and **customer segmentation** to derive insights that help improve booking trends, optimize pricing strategies, and enhance customer experience. Using Python, SQL, and visualization tools, the analysis explores key metrics influencing hotel revenue performance.
+This project utilizes **Supervised Learning Classification** techniques to analyze **hotel revenue patterns** and **customer segmentation**, deriving insights that help improve booking trends, optimize pricing strategies, and enhance customer experience. Using Python, SQL, and visualization tools, this analysis explores key metrics influencing hotel revenue performance.
 
 ## 📊 Dataset
 The dataset contains hotel booking details, including:
@@ -39,4 +39,3 @@ Key insights are presented through **visualizations**, including:
 - 📥 Clone the repository
 - 📂 Open the **Jupyter Notebook** to explore the data analysis
 - 📌 Review insights and **visualizations for business decision-making**
-
